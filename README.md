@@ -1,6 +1,6 @@
 # webpage-to-video-skill
 
-Convert any HTML step-by-step presentation into a narrated MP4 video.
+Convert any HTML step-by-step presentation into a narrated MP4 video.(能网页转成视频，并自动生成语音旁白，和页面同步。)
 
 ## What It Does
 
